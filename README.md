@@ -26,7 +26,7 @@ Before running the tests, ensure you have the following installed:
 ### 1. **Clone the Repository**
 
 ```bash
-git https://github.com/Alhifnawy/SumergeAutomationTask.git
+git https://github.com/Alhifnawy/FlairsTechAutomation.git
 ```
 ### 2. **Navigate to the project directory and use Maven to install the required dependencies:**
     
